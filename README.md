@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AarenA2805
 - 👀 I’m interested in all things engineering design and neuroscience-related! 
 - 🌱 I’m currently learning C++ and python. 
 - 💞️ I’m looking to collaborate on some fun side projects and hackathons! 
